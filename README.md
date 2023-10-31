@@ -44,7 +44,7 @@ I'm a passionate and experienced Fullstack Developer with a love for creating we
 - Proficiency in building and deploying web applications.
 - Expertise in designing user-friendly and responsive interfaces.
 - Keen problem-solving skills and an aptitude for learning new technologies.
-
+<!--
 ## Projects
 
 ### Project 1: [Project Name](project-link)
@@ -66,7 +66,7 @@ I'm a passionate and experienced Fullstack Developer with a love for creating we
 - Source Code: Link to the GitHub repository (if it's an open-source project).
 
 Add more projects as needed.
-
+-->
 ## Technologies
 
 Here are some of the technologies and tools I frequently work with:
