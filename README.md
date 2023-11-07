@@ -32,7 +32,7 @@ Welcome to my portfolio! This repository serves as a showcase of my work and ski
 
 ## Table of Contents
 - [About Me](#about-me)
-- [Projects](#projects)
+<!-- - [Projects](#projects) -->
 - [Technologies](#technologies)
 - [Contact](#contact)
 
